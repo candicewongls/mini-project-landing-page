@@ -1,0 +1,67 @@
+h1 {
+    font-size:40px;
+}
+body {
+    font-family: Algerian;
+  }
+header {
+    width: 100%;
+    border: 10px solid darkblue;
+    background-color: lightblue;
+  }
+
+  section {
+    height: auto;
+    width: auto;
+    margin: 30px auto;
+    border: 10px solid black;
+  }
+
+  .first-element {
+    background-color: lightblue;
+  }
+  
+  .second-element {
+    background-color: lightblue;
+  }
+  
+  .third-element {
+    background-color: lightblue;
+  }
+
+  li {
+    list-style-type: none;
+    font-size: 20px;
+  }
+
+  .display-inline {
+    display: inline;
+  }
+  
+  footer {
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+  border: 10px solid darkblue;
+  background-color: lightblue;
+  }
+
+  ul {
+    text-align: left;
+    color:blue;
+  }
+
+  button {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 20px;
+    position:relative;
+    width: 25%;
+    text-align: auto;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+  }
